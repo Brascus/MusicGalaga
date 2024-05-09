@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 8126a3fcd8030024081f3ed34089056d
+  - enabled: 1
+    path: Assets/Scenes/Options 1.unity
+    guid: 2b86f2f321be1224d8fefc7b262cbee6
+  - enabled: 1
+    path: Assets/Scenes/SpaceInvadersEasyMode.unity
+    guid: b7891b14c91064c4c9bbdc949ecf7706
+  - enabled: 1
+    path: Assets/SpaceInvaderesNormalMode.unity
+    guid: 8d036884e279d6e4b88b488510d8952b
+  - enabled: 1
+    path: Assets/SpaceInvadersHardMode.unity
+    guid: 1386afe625e73e8418a9a9ccde75d944
+  m_configObjects: {}
